@@ -1,16 +1,3 @@
-# bilgi_testi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1663920631](https://user-images.githubusercontent.com/110282982/191937949-3f08ccf2-7e98-4344-990a-e93643d5fa83.png)
+![Screenshot_1663920639](https://user-images.githubusercontent.com/110282982/191937961-f9ec2076-0dd3-4dc3-be5c-304c2946485f.png)
+![Screenshot_1663920646](https://user-images.githubusercontent.com/110282982/191937970-9e510540-38bb-45f2-8fd8-1cf9843e79fd.png)
